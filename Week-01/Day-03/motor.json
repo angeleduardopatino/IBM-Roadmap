@@ -1,0 +1,7 @@
+{
+    "name": "Motor_01",
+    "voltage": 120,
+    "current": 3,
+    "power": 360,
+    "status": "NORMAL"
+}
