@@ -41,5 +41,5 @@ with open("week-01/day-03/motors.json", "r") as file:
  loaded_motors = json.load(file)      
 
 for motor in loaded_motors:
- if motor["status"] == "HIGH":  
-  print(f"{motor['name']} -> {motor['power']} W")
+ if motor["status"] == "HIGH":   
+    print(f"{motor['name']} -> {motor['power']} W")
